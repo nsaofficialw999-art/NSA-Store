@@ -1,21 +1,12 @@
 {
-  "name": "NSA-Store",
-  "short_name": "NSAStore",
+  "background_color": "#2563eb",
   "description": "Your online shopping destination",
-  "start_url": "/",
+  "dir": "ltr",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#2563eb",
-  "icons": [
-    {
-      "src": "https://via.placeholder.com/192x192/2563eb/ffffff?text=NS",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://via.placeholder.com/512x512/2563eb/ffffff?text=NSA",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "name": "NSA-Store",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "NSAStore",
+  "start_url": "/",
+  "theme_color": "#ffffff"
 }
