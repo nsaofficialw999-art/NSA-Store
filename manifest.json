@@ -1,0 +1,12 @@
+{
+  "background_color": "#2563eb",
+  "description": "Your online shopping destination",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "NSA-Store",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "NSAStore",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
